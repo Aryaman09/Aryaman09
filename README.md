@@ -1,2 +1,3 @@
-#Aryaman Mishra
--Just started learning Computer
+# Aryaman Mishra
+Just started learning how to code and stuff
+[Twitter](https://x.com/Aryaman091)
